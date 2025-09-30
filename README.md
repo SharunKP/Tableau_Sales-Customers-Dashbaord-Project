@@ -1,7 +1,9 @@
 # Sales & Customer Analytics Dashboard
 
 A comprehensive business intelligence dashboard built using Tableau to visualize sales performance, customer behavior, and key business metrics for data-driven decision making.
-<img width="1200" height="840" alt="Screenshot 2025-09-30 135113" src="https://github.com/user-attachments/assets/0ea1e726-62ed-4862-9bc8-3a999fb41160" />
+<img width="1204" height="824" alt="Screenshot 2025-09-30 135101" src="https://github.com/user-attachments/assets/1c8d5d9a-5217-412d-bcc1-dd9da676a6ae" />
+<img width="1200" height="840" alt="Screenshot 2025-09-30 135113" src="https://github.com/user-attachments/assets/233a7517-3c0c-43c1-bcca-40afa80022cc" />
+
 
 ## 📊 Project Overview
 
@@ -33,20 +35,6 @@ Both dashboards feature **comprehensive interactive filtering** capabilities for
   - State-level filtering
   - City-specific analysis
 - **Dynamic Updates**: All visualizations update automatically based on filter selections
-
-### Customer Dashboard
-- **Customer Metrics**: Total customers (693) with 8.6% growth vs. previous year
-- **Sales per Customer**: Average $1,058 per customer with 10.8% improvement
-- **Order Volume**: 1,687 total orders showing 28.3% increase
-- **Customer Distribution**: Analysis by number of orders placed
-- **Top 10 Customers**: Ranked by profit contribution with detailed metrics
-
-### Sales Dashboard  
-- **Financial Performance**: $733K total sales, $93K profit, $12K quantity
-- **Growth Tracking**: Year-over-year comparison with percentage changes
-- **Product Analysis**: Sales and profit breakdown by subcategory
-- **Trend Analysis**: Monthly performance tracking with above/below average indicators
-- **Profit Optimization**: Identification of profitable vs. loss-making products
 
 ## 🔧 Dashboard Functionality
 
